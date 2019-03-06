@@ -1,7 +1,4 @@
 # SportcheckChatbot
-# lalala check
-# add something 222
-#used test 
 #Step1. Install Docker 
 #       yum install docker -y 
 #	   usermod -aG docker ($username) #指定權限
